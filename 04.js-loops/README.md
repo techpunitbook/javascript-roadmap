@@ -4,7 +4,16 @@
 
 <hr>
 
-> while
+## while loops
+
+```
+let a=1;
+
+while(a<=5){
+ document.write(`<h${a}>This is message ${a}</h${a}>`);
+a++;
+}
+```
 
 > do while
 
