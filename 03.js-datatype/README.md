@@ -5,16 +5,6 @@
 
 ## Primitive Data Types
 
-
-
-## Complex Data Types
-
-
-
-
-
-
-
 ### Symbol Data Type
 
 ```
@@ -22,3 +12,14 @@ let logo =Symbol('techpunit');
 console.log(logo);
 console.log(typeof logo);
 ```
+
+
+
+
+## Complex Data Types
+
+### Array
+
+### Object
+
+### Function
