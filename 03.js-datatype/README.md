@@ -1,3 +1,14 @@
+# javaScript dataType 
+
+1. primptive dataType
+2. nonprimptive dataTye
+
+## Primptive dataType
+
+
+
+
+
 
 
 ## Symbol Data Type
