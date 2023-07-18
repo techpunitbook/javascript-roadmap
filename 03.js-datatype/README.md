@@ -18,8 +18,8 @@ console.log(typeof logo);
 
 ## Complex Data Types
 
-### Array
+### Array Data Type
 
-### Object
+### Object Data Type
 
-### Function
+### Function Data Type
