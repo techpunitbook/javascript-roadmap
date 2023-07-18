@@ -1,17 +1,21 @@
 # javaScript dataType 
 
-1. primptive dataType
-2. nonprimptive dataTye
+1. Primitive Data Types
+2. Complex Data Types
 
-## Primptive dataType
-
-
+## Primitive Data Types
 
 
 
+## Complex Data Types
 
 
-## Symbol Data Type
+
+
+
+
+
+### Symbol Data Type
 
 ```
 let logo =Symbol('techpunit');
