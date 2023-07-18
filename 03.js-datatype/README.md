@@ -20,6 +20,8 @@ console.log(typeof logo);
 
 ### Array Data Type
 
+<hr>
+
 **Represents an ordered list of values. Arrays can contain any combination of data types and are created using square brackets [ ]**
 
 ### Object Data Type
