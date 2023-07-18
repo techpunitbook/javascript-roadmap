@@ -1,4 +1,4 @@
-# JavaScript dataType 
+# JavaScript Data Type 
 
 1. Primitive Data Types
 2. Complex Data Types
