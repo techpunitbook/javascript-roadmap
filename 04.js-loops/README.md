@@ -6,6 +6,8 @@
 
 ## while loops
 
+**A while loop repeatedly executes a block of code as long as a specified condition is true. It checks the condition before each iteration.**
+
 ```
 let a=1;
 
